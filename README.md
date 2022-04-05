@@ -32,7 +32,7 @@ To run this project you will need to do the following:
 1. Clone this repository onto your local machine.
 
 ```
-git clone https://github.com/BitKoda/nc-group-project.git
+git clone https://github.com/imevanc/nc-group-project
 
 ```
 
